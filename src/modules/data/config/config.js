@@ -1,10 +1,10 @@
 const config = {
   header: {
-    name: 'Abhimanyu Singh Tanwar',
+    name: 'Jay Patel',
     menu: ['ABOUT','SKILLS','EXPERIENCE','PROJECTS','CERTIFICATES','EDUCATION']
   },
   github: {
-    username: 'abhimanyud3dx', // Your GitHub org/user name. (Required)
+    username: 'jay3364', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
